@@ -18,4 +18,4 @@ After combining the two dataframes, the merged table contained a list of baby na
 
 ## Load
 
-The final step was taking my final Pandas dataframe, and exporting it to a CSV file. You can find this file within the repository.
+The final step was taking my final Pandas dataframe of approximately 1,400 rows, and exporting it to a CSV file. You can find this file within the repository.
